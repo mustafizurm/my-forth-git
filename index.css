@@ -1,0 +1,148 @@
+body{
+
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+.main{
+
+display: flex;
+width: 100%;
+
+}
+
+.main-contant1{
+
+width: 60%;
+padding-left: 50px;
+
+
+}
+
+img{
+
+border-radius: 50%;
+
+}
+
+a{
+
+text-decoration: none;
+padding: 6px 12px;
+background-color:orange;
+color: white;
+font-size: 17px;
+border-radius:7px;
+
+
+
+}
+
+.wel{
+
+font-size: 70px;
+
+}
+
+.name{
+
+color: orange;
+
+}
+
+
+
+
+
+.main2{
+
+display: flex;
+margin-top: 100px;
+width: 100%;
+
+
+}
+
+.demo{
+
+width: 40%;
+padding-left: 150px;
+}
+
+.pic{
+
+padding-left: 50px;
+
+}
+
+.dream{
+
+font-size:50px;
+
+
+}
+
+.become{
+
+font-size:40px;
+color: violet;
+
+}
+
+.already{
+
+font-size: 30px;
+
+}
+
+
+.main3{
+
+display: flex;
+width:100%;
+
+
+
+}
+
+.last1{
+
+padding-left: 60px;
+padding-right: 150px;
+
+
+}
+
+.fubl{
+
+
+color: olivedrab;
+
+}
+
+.yes{
+
+margin-top: 200px;
+
+}
+
+.ptag{
+
+font-size: 20px;
+
+}
+
+.color{
+
+color: teal;
+
+}
+
+
+.box{
+
+
+    box-shadow:10px 10px 40px gray;
+    padding:30px;
+
+}
